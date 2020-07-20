@@ -29,7 +29,9 @@ final Doctor testDoctor = Doctor(
   branch: "Viralogist",
   experience: 10,
   patientCount: 1000,
-  profilePhoto: "",
+  profilePhoto:
+      "https://www.gravatar.com/avatar/"
+      "205e460b479e2e5b48aec07710c08d50.jpg?s=100",
   rating: 4.5,
   workingTime: "Mon - Sat (08:30 AM - 09:00 PM)",
 );
